@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: cursive;
+    scroll-behavior: smooth;
+}
+.container{
+    background-image: url("img1.avif");
+    background-attachment: fixed;
+    width:100%;
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+}
+.div1{
+   text-align: center;
+}
+.nav1{
+    display: flex;
+    justify-content: center; 
+    gap: 30px;
+    padding-top: 20px;
+}
+a{
+    color: black;
+}
+.div2{
+    width:900px;
+    height:400px;
+    background-color:whitesmoke;
+    margin: 100px 350px 100px 300px;
+    padding:30px 30px;
+    opacity: 0.9;
+    border-radius: 15px;
+}
+.div3{
+    align-items: center;
+}
+.div4{
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+.container2{
+    background-image: url("img2.avif");
+    background-attachment: fixed;
+    width:100%;
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    margin-top: 30px;
+}
+.div5{
+    width:900px;
+    height:400px;
+    background-color:whitesmoke;
+    margin: 100px 350px 100px 300px;
+    padding:30px 30px;
+    
+    opacity: 0.9;
+    border-radius: 15px;
+}
+.div6{
+    align-items: center;
+}
+.div7{
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+.container3{
+    background-image: url("img3.avif");
+    background-attachment: fixed;
+    width:100%;
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    margin-top: 30px;
+}
+.div8{
+    width:900px;
+    height:400px;
+    background-color:whitesmoke;
+    margin: 100px 350px 100px 300px;
+    padding:30px 30px; 
+    opacity: 0.9;
+    border-radius: 15px;
+}
+.div9{
+    align-items: center;
+}
+.div10{
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+
+
+
+
